@@ -5,7 +5,9 @@
   "scripts": {
     "test": "jest"
   },
-  "dependencies": {},
+  "dependencies": {
+    "date-fns": "^2.16.1"
+  },
   "devDependencies": {
     "@types/jest": "^26.0.13",
     "jest": "^26.4.2",
